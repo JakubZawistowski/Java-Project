@@ -1,4 +1,1 @@
-# Symulacja na obiektowe
-
-
-Tomasz Smyda & Jakub Zawistowski
+Third Semester Project. Simulation of animals life
